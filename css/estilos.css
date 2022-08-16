@@ -179,40 +179,25 @@ h3{
 }
 
 
-/** Presentacion**/
-
-.parrafo{
-    width: 80%;
-    color: antiquewhite;
-    font-size: 15px;
-    font-weight: bolder;
-    word-spacing: 10px;
-    text-shadow: 0 0 10px black;
-   
+/*presentacion*/
 
 
-}
-.presentacion{
-    display: flex;
-    flex-direction: column;
-     justify-content: center;
-    align-items: center;
+
+.imgUno{
     background-image: url(../img/foto.jpg);
-    height: 50vh;
-    width: 30%;
     background-size: cover;
-    background-repeat: no-repeat;
-    border: black solid 3px;
-    border-radius: 10px;
-    margin-left: 60%;
+   height: 600px;
 }
-.imgPresentacion{
+
+
+.imgDos{
     background-image: url(../img/presentacion.png);
-    border: solid bisque 5px;
-    height: 100vh;
     background-size: cover;
-    background-position: cencer center;
-    background-repeat: no-repeat;
+    height: 100vh;
+
+}
+.p{
+    color: beige;
 }
 
 /**formulario**/
@@ -248,7 +233,6 @@ h3{
 .fondo{
     background-color: rgb(54, 66, 72);
 }
-
 
 /*productos*/
 #producto{
@@ -386,39 +370,7 @@ h3{
 }
 
 
- /*presentacion*/
- .imgPresentacion{
-    background-image: url(../img/presentacion.png);
-    border: solid bisque 5px;
-    height: 100vh;
-    background-repeat: no-repeat;
-}
-.parrafo{
-    width: 80%;
-    color: antiquewhite;
-    font-size: 15px;
-    font-weight: bolder;
-    word-spacing: 10px;
-    text-shadow: 0 0 10px black;
-   
 
-
-}
-.presentacion{
-    display: flex;
-    flex-direction: column;
-     justify-content: center;
-    align-items: center;
-    background-image: url(../img/foto.jpg);
-    height: 50vh;
-    width: 80%;
-    background-size: cover;
-    background-repeat: no-repeat;
-    border: black solid 3px;
-    border-radius: 10px;
-    margin-left: 10%;
-}
- 
 }
 
 /**smartphone*/
@@ -506,39 +458,7 @@ h3{
  
  
  }
- /*presentacion*/
- .imgPresentacion{
-    background-image: url(../img/presentacion.png);
-    border: solid bisque 5px;
-    height: 100vh;
-    background-repeat: no-repeat;
-}
-.parrafo{
-    width: 80%;
-    color: antiquewhite;
-    font-size: 15px;
-    font-weight: bolder;
-    word-spacing: 10px;
-    text-shadow: 0 0 10px black;
-   
-
-
-}
-.presentacion{
-    display: flex;
-    flex-direction: column;
-     justify-content: center;
-    align-items: center;
-    background-image: url(../img/foto.jpg);
-    height: 50vh;
-    width: 80%;
-    background-size: cover;
-    background-repeat: no-repeat;
-    border: black solid 3px;
-    border-radius: 10px;
-    margin-left: 10%;
-}
-
+ 
 
 
 /*Areas*/
