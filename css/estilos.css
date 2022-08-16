@@ -227,43 +227,12 @@ h3{
     margin: 10px;
 }
 .form{
-    display: flex;
-    flex-direction: column;
-    border: rgb(81, 77, 77) solid 5px;
-    padding: 50px;
-    width: 30%;
-    margin-left: 30%;
-    height: 50vh;
-    background-image: url(https://crystalzoom.com/wp-content/uploads/2022/01/descuentos.jpg);
+  background-image: url(https://crystalzoom.com/wp-content/uploads/2022/01/descuentos.jpg);
     background-repeat: no-repeat;
     background-position: center center;
     background-size: cover;
-    font-family: 'Oswald', sans-serif ;  
-    font-size: bold;
 }
 
-.inputForm{
-    margin: 8px;
-    padding: 10px;
-    border-radius: 10px;
-    border-style: double;
-    background-color: rgb(233, 165, 165);
-    color: red;
-    font-size: 15px;
-}
-form select{
-    margin: 10px;
-    color: red;
-}
-.contenido{
-    width: 100%;
-}
-
-.envio{
-   margin-left: 70%;
-
-
-}
  /**MEDIA*/
 /*desktop*/
 @media (min-width: 1024px){
@@ -415,31 +384,11 @@ h3{
     font-family:  'Oswald', sans-serif;
 
 }
-/*Descuentos*/
-.form{
-    display: flex;
-    flex-direction: column;
-    border: rgb(81, 77, 77) solid 5px;
-    padding: 25px;
-    width: 60%;
-    margin-left: 15%;
-    height: 50vh;
-    background-image: url(https://crystalzoom.com/wp-content/uploads/2022/01/descuentos.jpg);
-    background-repeat: no-repeat;
-    background-position: center center;
-    background-size: cover;
-    font-family: 'Oswald', sans-serif ;  
-    font-size: bold;
-}
-.envio{
-    margin-top: 10%;
-    margin-left: 25%;
- 
- 
- }
+
+
  /*presentacion*/
  .imgPresentacion{
-    background-image: url(/img/presentacion.png);
+    background-image: url(../img/presentacion.png);
     border: solid bisque 5px;
     height: 100vh;
     background-repeat: no-repeat;
@@ -460,7 +409,7 @@ h3{
     flex-direction: column;
      justify-content: center;
     align-items: center;
-    background-image: url(/img/foto.jpg);
+    background-image: url(../img/foto.jpg);
     height: 50vh;
     width: 80%;
     background-size: cover;
@@ -548,31 +497,13 @@ h3{
     font-family:  'Oswald', sans-serif;
 
 }
-/*Descuentos*/
-.form{
-    display: flex;
-    flex-direction: column;
-    border: rgb(81, 77, 77) solid 5px;
-    padding: 25px;
-    width: 60%;
-    margin-left: 15%;
-    height: 50vh;
-    background-image: url(https://crystalzoom.com/wp-content/uploads/2022/01/descuentos.jpg);
-    background-repeat: no-repeat;
-    background-position: center center;
-    background-size: cover;
-    font-family: 'Oswald', sans-serif ;  
-    font-size: bold;
-}
-.envio{
-    margin-top: 10%;
-    margin-left: 25%;
+
  
  
  }
  /*presentacion*/
  .imgPresentacion{
-    background-image: url(/img/presentacion.png);
+    background-image: url(../img/presentacion.png);
     border: solid bisque 5px;
     height: 100vh;
     background-repeat: no-repeat;
@@ -593,7 +524,7 @@ h3{
     flex-direction: column;
      justify-content: center;
     align-items: center;
-    background-image: url(/img/foto.jpg);
+    background-image: url(../img/foto.jpg);
     height: 50vh;
     width: 80%;
     background-size: cover;
@@ -603,7 +534,7 @@ h3{
     margin-left: 10%;
 }
 
-}
+
 
 /*Areas*/
 
