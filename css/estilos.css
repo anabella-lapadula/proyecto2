@@ -102,7 +102,7 @@ h2{
 
 
 .parrafoP{
-    font-size: 20px;
+    font-size: 18px;
     font-weight: bold;
 }
 
@@ -112,6 +112,7 @@ h2{
     display: flex;
     flex-wrap: wrap;
     justify-content: center;
+    align-content: center;
 }
 
 
@@ -120,6 +121,7 @@ h2{
     display: flex;
     flex-direction: column;
   align-items: center;
+
 }
 
 h3{
@@ -175,6 +177,7 @@ h3{
     margin-left: 20px;
     color: bisque;
     font-family:  'Oswald', sans-serif;
+    
 
 }
 
@@ -190,12 +193,7 @@ h3{
 }
 
 
-.imgDos{
-    background-image: url(../img/presentacion.png);
-    background-size: cover;
-    height: 100vh;
 
-}
 .p{
     color: beige;
 }
